@@ -1,0 +1,29 @@
+@media only screen and (max-width: 640px){
+    #wrapper{
+        width: 100%;
+        min-width: 375px;
+        background: #15161E url(~/assets/images/bg_footer_sp.png) no-repeat 0 bottom;
+    }
+    .container{
+        width: 100%;
+        padding: 0 20px;
+    }
+    .main-visual .banner-ttl h2{
+        font-weight: 800;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .section-ttl span{
+        font-size: 12px;
+        line-height: 14px;
+        text-align: center;
+        letter-spacing: 5px;
+    }
+    .section-ttl h3{
+        font-weight: 800;
+        font-size: 26px;
+        line-height: 31px;
+        text-align: center;
+        letter-spacing: 1px;
+    }
+}
