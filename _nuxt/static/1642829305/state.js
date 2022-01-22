@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002FHiko_Test_HoaiSon\u002F_nuxt\u002Fstatic\u002F1642829305",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{app:{basePath:"\u002FHiko_Test_HoaiSon\u002F",assetsPath:"\u002FHiko_Test_HoaiSon\u002F_nuxt\u002F",cdnURL:a}}}}(null));
