@@ -8,7 +8,7 @@
                 <div class="header-rgt">
                     <div class="gnavi">
                         <ul>
-                            <li><a href="#">ABOUT US</a></li>
+                            <li><a href="#">HoaiSon</a></li>
                             <li><a href="#">PRODUCTS</a></li>
                             <li><a href="#">PARTNERS</a></li>
                             <li><a href="#">OUR CLIENTS</a></li>
